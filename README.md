@@ -24,9 +24,6 @@ This project is a Python script that interacts with the Pixela API to track dail
 3. Run the script using `python pixela_graph.py`.
 4. Follow the prompts to input your activity data.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute to this project.
 
